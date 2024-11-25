@@ -1,0 +1,58 @@
+.register-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 1.5rem;
+    border: 1px solid #444; /* Darker border color */
+    border-radius: 8px;
+    background-color: #2c2c2c; /* Dark background */
+    color: #f1f1f1; /* Light text color */
+}
+
+.register-container form div {
+    margin-bottom: 1rem;
+}
+
+.register-container label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    color: #f1f1f1; /* Light text color */
+}
+
+.register-container input {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #666; /* Darker input border */
+    border-radius: 4px;
+    background-color: #3a3a3a; /* Darker input background */
+    color: #f1f1f1; /* Light input text */
+}
+
+.register-container input::placeholder {
+    color: #aaa; /* Subtle placeholder text */
+}
+
+.register-container button {
+    width: 100%;
+    padding: 0.75rem;
+    background-color: #0056b3; /* Darker blue for contrast */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.register-container button:hover {
+    background-color: #004494; /* Slightly darker on hover */
+}
+
+.error {
+    color: #ff6b6b; /* Bright red for errors */
+    margin-top: 1rem;
+}
+
+.success {
+    color: #4caf50; /* Bright green for success */
+    margin-top: 1rem;
+}
