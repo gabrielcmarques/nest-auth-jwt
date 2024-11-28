@@ -2,4 +2,4 @@
 
 ### Irei utilizar esse repo como referência para futuros projetos.
 
-### [LinkedIn Post](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7259338963620941825)
+### <a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7259338963620941825" target="_blank">LinkedIn Post</a>
